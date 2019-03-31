@@ -53,7 +53,7 @@ Teaching Assistant, __Math II1 (MATH200307)__ `Fall 2018` <br>
 ## Honors & Awards
 
 **Excellent Graduate Student Scholarship** `Nanjing, China` <br>
-**Third Prize**, CSEE Cup 2017 National University Students Electrical Math Modeling Competition `Nanjing, 2017.7.12` <br>
+**Third Prize**, CSEE Cup 2017 National University Students Electrical Math Modeling Competition `Nanjing, 2017.7` <br>
 **Second Prize**, MathorCup Mathematical contest in Modeling `Nanjing, 2017.7` <br>
 
 ## Skills
