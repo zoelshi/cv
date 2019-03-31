@@ -40,7 +40,7 @@ Nanjing, Jiangsu, China
 Research Assistant, advised by Prof. Liangyun Zhang<br>
 - Analyse the structure and social economic situation of land resource in Nanjing from 2005 to 2014 using the Shannon entropy, combined with a variety of constraints related policies and development requirement.
 - Maximize the economic benefits using the grey system theory. 
-- Adopt the grey linear programming model for structural optimization of land resources in the city, and then puts forward a reasonable optimization scheme of land structure up to 2020.
+- Adopt the grey linear programming model for structural optimization of land resources in the city. Put forward a reasonable optimization scheme of land structure up to 2020.
 
 ## Publications
 
