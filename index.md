@@ -31,7 +31,8 @@ Xi'an, Shanxi, China
 Nanjing, Jiangsu, China
 ```
 - B.S. in Information and Computing Science
-- Cumulative GPA: 3.82 \| Ranking 1/55
+- Advised by A/Prof. Yibin Zhang
+- Cumulative GPA: 3.82 \| Ranking $1/55$
 
 ## Research Experience
 
