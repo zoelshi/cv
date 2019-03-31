@@ -31,7 +31,7 @@ Xi'an, Shanxi, China
 Nanjing, Jiangsu, China
 ```
 - B.S. in Information and Computing Science
-- Cumulative GPA: 3.82 | Ranking $1^{st}/55$
+- Cumulative GPA: 3.82 | Ranking 1^{st}/55
 
 ## Research Experience
 
