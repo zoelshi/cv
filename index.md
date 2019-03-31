@@ -6,7 +6,7 @@ homepage:
     url: http://zoelsherry.com
     text: zoelsherry.com
 ---
-# Wode __Ni__
+# Zhengyuan __Shi__
 
 <!--
 include contact information from the front matter
