@@ -25,6 +25,7 @@ Xi'an, Shanxi, China
 ```
 - M.Phil. in Applied Mathematics
 - Advised by A/Prof. Yibao Li
+- Research Field: Computational Fluid Dynamics, Image Processing, and Scientific Computing
 
 ### __Nanjing Agriculture University__ `2014.9 - 2018.6`
 ```
@@ -36,7 +37,7 @@ Nanjing, Jiangsu, China
 
 ## Experience
 
-### **蓝网-西交 医学影像后处理功能开发** `2019.11 -`
+### **西交大-蓝网 医学影像后处理功能开发** `2019.11 -`
 
 算法工程师<br>
 基于PACS框架，开发曲面重建、体绘制调窗、去床去骨、区域染色建模、体积测量、血管提取、血管狭窄分析等医学影像后处理功能
