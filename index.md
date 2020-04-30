@@ -34,18 +34,46 @@ Nanjing, Jiangsu, China
 - Advised by A/Prof. Yibin Zhang
 - Cumulative GPA: 3.82 \| Ranking 1/55
 
-## Research Experience
+## Experience
 
-### __Application of grey system theory to optimization of land resource structure in Nanjing__  `2016.3 - 2017.5`
-Research Assistant, advised by Prof. Liangyun Zhang<br>
-- Analyse the structure and social economic situation of land resource in Nanjing from 2005 to 2014 using the Shannon entropy, combined with a variety of constraints related policies and development requirement.
-- Maximize the economic benefits using the grey system theory. 
-- Adopt the grey linear programming model for structural optimization of land resources in the city. Put forward a reasonable optimization scheme of land structure up to 2020.
+### **蓝网-西交 医学影像后处理功能开发** `2019.11 -`
+
+算法工程师<br>
+基于PACS框架，开发曲面重建、体绘制调窗、去床去骨、区域染色建模、体积测量、血管提取、血管狭窄分析等医学影像后处理功能
 
 ## Publications
 
+### **An efficient method for scanned images by using color-correction and l0 gradient minimizations**
+
+Qing Xia\*, **Zhengyuan Shi\***, Jing Ji\*, and Yibao Li.<br>
+STATUS: Under Review<br>
+_Applied Mathematics and Computation_<br>
+[[PDF]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)]
+
+### **A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**
+
+Yibao Li\*, Xia Qing\*, **Zhengyuan Shi\***, Bingheng Lu\*, and Junseok Kim.<br>
+STATUS: Under Review<br>
+_Additive Manufacturing_<br>
+[[PDF]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)]
+
+### **An efficient non-linear polynomial color characterization method based on interrelations of color spaces**
+
+Jing Ji\*, Suping Fang\*, **Zhengyuan Shi\***,  Qing Xia, and Yibao Li.<br>
+STATUS: Revision<br>
+_Color Research & Application_<br>
+[[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
+
+### **一种隐形牙套的牙齿-牙龈快速分割算法(发明专利)**
+
+李义宝\*, **史政源**\*, 夏青\*, 卢秉恒\*.<br>
+申请号或专利号: 2019108485319<br>
+案件状态: 实质审查阶段
+
+
 ## Teaching
 
+Teaching Assistant, __Math II1 (MATH294107)__ `Fall 2019` <br>
 Teaching Assistant, __Math II2 (MATH201807)__ `Spring 2019` <br>
 Teaching Assistant, __Math II1 (MATH200307)__ `Fall 2018` <br>
 
@@ -58,7 +86,7 @@ Teaching Assistant, __Math II1 (MATH200307)__ `Fall 2018` <br>
 
 ## Skills
 
-Programming:  C/C++, Matlab, Java, Latex, HTML <br>
+Programming:  C/C++, OpenGL, CUDA, Matlab, Latex, HTML <br>
 Languages:  Native in Chinese(Mandarin), Fluent in English(CET4: 552 | CET6: 494) <br>
 
 <!-- ### Footer
