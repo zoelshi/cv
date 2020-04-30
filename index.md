@@ -45,28 +45,28 @@ Nanjing, Jiangsu, China
 
 ### **An efficient method for scanned images by using color-correction and l0 gradient minimizations**
 
-Qing Xia\*, **Zhengyuan Shi\***, Jing Ji\*, and Yibao Li.<br>
+Qing Xia, **Zhengyuan Shi**, Jing Ji, and Yibao Li.<br>
 STATUS: Under Review<br>
 _Applied Mathematics and Computation_<br>
 [[PDF]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)]
 
 ### **A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**
 
-Yibao Li\*, Xia Qing\*, **Zhengyuan Shi\***, Bingheng Lu\*, and Junseok Kim.<br>
+Yibao Li, Xia Qing, **Zhengyuan Shi**, Bingheng Lu, and Junseok Kim.<br>
 STATUS: Under Review<br>
 _Additive Manufacturing_<br>
 [[PDF]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)]
 
 ### **An efficient non-linear polynomial color characterization method based on interrelations of color spaces**
 
-Jing Ji\*, Suping Fang\*, **Zhengyuan Shi\***,  Qing Xia, and Yibao Li.<br>
+Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
 STATUS: Revision<br>
 _Color Research & Application_<br>
 [[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
 
 ### **一种隐形牙套的牙齿-牙龈快速分割算法(发明专利)**
 
-李义宝\*, **史政源**\*, 夏青\*, 卢秉恒\*.<br>
+李义宝, **史政源**, 夏青, 卢秉恒.<br>
 申请号或专利号: 2019108485319<br>
 案件状态: 实质审查阶段
 
