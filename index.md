@@ -25,7 +25,7 @@ Xi'an, Shanxi, China
 ```
 - M.Phil. in Applied Mathematics
 - Advised by A/Prof. Yibao Li
-- Research Field: Computational Fluid Dynamics, Image Processing, and Scientific Computing
+- Research Field: Computational Fluid Dynamics, Image and Geometry Processing, and Surface Reconstruction
 
 ### __Nanjing Agriculture University__ `2014.9 - 2018.6`
 ```
@@ -87,8 +87,8 @@ Teaching Assistant, __Math II1 (MATH200307)__ `Fall 2018` <br>
 
 ## Skills
 
-Programming:  C/C++, OpenGL, CUDA, Matlab, Latex, HTML <br>
-Languages:  Native in Chinese(Mandarin), Fluent in English(CET4: 552 | CET6: 494) <br>
+Programming:  C/C++, OpenGL, CUDA, Matlab<br>
+Languages:  CET4: 552 | CET6: 494 <br>
 
 <!-- ### Footer
 
