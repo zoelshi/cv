@@ -37,10 +37,10 @@ Nanjing, Jiangsu, China
 
 ## Experience
 
-### **西交大-蓝网 医学影像后处理功能开发** `2019.11 -`
+### **XJTU-LANWAN medical images post-processing project** `2019.11 -`
 
-算法工程师<br>
-基于PACS框架，开发曲面重建、体绘制调窗、去床去骨、区域染色建模、体积测量、血管提取、血管狭窄分析等医学影像后处理功能
+algorithm engineer<br>
+We develop the post-processing functions of medical image based on PACS framework, which includes surface reconstruction, volume rendering, VR window adjustment, bed removal and bone removal, area staining modeling, volume measurement, vessel extraction and vascular stenosis analysis.
 
 ## Publications
 
@@ -65,13 +65,6 @@ STATUS: Revision<br>
 _Color Research & Application_<br>
 [[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
 
-### **一种隐形牙套的牙齿-牙龈快速分割算法(发明专利)**
-
-李义宝, **史政源**, 夏青, 卢秉恒.<br>
-申请号或专利号: 2019108485319<br>
-案件状态: 实质审查阶段
-
-
 ## Teaching
 
 Teaching Assistant, __Math II1 (MATH294107)__ `Fall 2019` <br>
@@ -88,6 +81,7 @@ Teaching Assistant, __Math II1 (MATH200307)__ `Fall 2018` <br>
 ## Skills
 
 Programming:  C/C++, OpenGL, CUDA, Matlab<br>
+Softwares: Unity, Maya<br>
 Languages:  CET4: 552 | CET6: 494 <br>
 
 <!-- ### Footer
