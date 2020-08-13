@@ -44,6 +44,14 @@ We develop the post-processing functions of medical image based on PACS framewor
 
 ## Publications
 
+### **An efficient non-linear polynomial color characterization method based on interrelations of color spaces**
+
+Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
+STATUS: Accept<br>
+DOI: 10.1002/col.22563<br>
+_Color Research & Application_<br>
+[[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
+
 ### **An efficient method for scanned images by using color-correction and l0 gradient minimizations**
 
 Qing Xia, **Zhengyuan Shi**, Jing Ji, and Yibao Li.<br>
@@ -57,13 +65,6 @@ Yibao Li, Xia Qing, **Zhengyuan Shi**, Bingheng Lu, and Junseok Kim.<br>
 STATUS: Under Review<br>
 _Additive Manufacturing_<br>
 [[PDF]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)]
-
-### **An efficient non-linear polynomial color characterization method based on interrelations of color spaces**
-
-Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
-STATUS: Revision<br>
-_Color Research & Application_<br>
-[[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
 
 ## Teaching
 
