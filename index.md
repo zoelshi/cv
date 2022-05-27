@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Zhengyuan Shi
-email: zhengyuanshi@stu.xjtu.edu.cn
+email: zoelsherry@gmail.com
 homepage:
     url: http://zoel.me
     text: zoel.me
