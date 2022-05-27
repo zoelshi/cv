@@ -3,8 +3,8 @@ layout: cv
 title: Zhengyuan Shi
 email: zhengyuanshi@stu.xjtu.edu.cn
 homepage:
-    url: http://zoelsherry.com
-    text: zoelsherry.com
+    url: http://zoel.me
+    text: zoel.me
 ---
 # Zhengyuan __Shi__
 
@@ -19,7 +19,7 @@ Supported arguments:
 
 ## Education
 
-### __Xi'an Jiaotong University__ `2018.9 -`
+### __Xi'an Jiaotong University__ `2018.9 - 2021.6`
 ```
 Xi'an, Shanxi, China
 ```
@@ -47,24 +47,22 @@ We develop the post-processing functions of medical image based on PACS framewor
 ### **An efficient non-linear polynomial color characterization method based on interrelations of color spaces**
 
 Jing Ji, Suping Fang, **Zhengyuan Shi**,  Qing Xia, and Yibao Li.<br>
-STATUS: Accept<br>
 DOI: 10.1002/col.22563<br>
 _Color Research & Application_<br>
-[[PDF]({{ page.homepage.url }}/publication/color-correction/color-correction.pdf)]
+[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22563)]
 
-### **An efficient method for scanned images by using color-correction and l0 gradient minimizations**
+### **An efficient method for scanned images by using color-correction and L0 gradient minimizations**
 
-Qing Xia, **Zhengyuan Shi**, Jing Ji, and Yibao Li.<br>
-STATUS: Under Review<br>
-_Applied Mathematics and Computation_<br>
-[[PDF]({{ page.homepage.url }}/publication/color-correction2/color-correction2.pdf)]
+Jing Ji, Suping Fang, Qing Xia, **Zhengyuan Shi**.<br>
+_Optik_<br>
+[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0030402621014042
+url_code:)]
 
-### **A simple and efficient manufacturing design method for additive manufacturing with multiple printing sizes**
+### **Multi-Reconstruction from Points Cloud by Using a Modified Vector-Valued Allen–Cahn Equation**
 
-Yibao Li, Xia Qing, **Zhengyuan Shi**, Bingheng Lu, and Junseok Kim.<br>
-STATUS: Under Review<br>
-_Additive Manufacturing_<br>
-[[PDF]({{ page.homepage.url }}/publication/additive-manufacturing/additive-manufacturing.pdf)]
+Jin Wang, **Zhengyuan Shi**.<br>
+_Mathematics_<br>
+[[PDF](https://doi.org/10.3390/math9121326)]
 
 ## Teaching
 
@@ -82,7 +80,7 @@ Teaching Assistant, __Math II1 (MATH200307)__ `Fall 2018` <br>
 ## Skills
 
 Programming:  C/C++, OpenGL, CUDA, Matlab<br>
-Softwares: Unity, Maya<br>
+Softwares: Unity, Maya, Photoshop<br>
 Languages:  CET4: 552 | CET6: 494 <br>
 
 <!-- ### Footer
