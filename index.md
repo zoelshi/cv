@@ -3,7 +3,7 @@ layout: cv
 title: Zhengyuan Shi
 email: zoelsherry@gmail.com
 homepage:
-    url: http://zoel.me
+    url: https://zoel.me/
     text: zoel.me
 ---
 # Zhengyuan __Shi__
@@ -55,8 +55,7 @@ _Color Research & Application_<br>
 
 Jing Ji, Suping Fang, Qing Xia, **Zhengyuan Shi**.<br>
 _Optik_<br>
-[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0030402621014042
-url_code:)]
+[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0030402621014042)]
 
 ### **Multi-Reconstruction from Points Cloud by Using a Modified Vector-Valued Allen–Cahn Equation**
 
